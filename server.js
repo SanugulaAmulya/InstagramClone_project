@@ -1,2 +1,0 @@
-PORT=5000
-JWT_SECRET=my_super_secret_instagram_key_12345
